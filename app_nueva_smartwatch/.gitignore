@@ -43,3 +43,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Local debug caches
+.gradle_cache/
+.android_cache/
+.user_home/
